@@ -2,7 +2,7 @@ TEAM 003 MEMBERS
 
 Matthew Crick
 
-George Tyukavin
+George Tyukavin 01
 
 Clarence Siew
 
