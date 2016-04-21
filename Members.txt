@@ -6,13 +6,9 @@ George Tyukavin
 
 Clarence Siew
 
-<<<<<<< Updated upstream
 Andrew King
 
 
 
 
 Hello World
-=======
-King Andrew
->>>>>>> Stashed changes
